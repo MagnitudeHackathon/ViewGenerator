@@ -4,7 +4,10 @@ Help users to generate Views for different data-sources (SAP, SQL) using an inte
 
 According to user requirement, this application inputs User Designed Model(Class data OR Relational Database Data)
 
+---
+
 OUTPUT:
+
 - Java Class files with built in getter, setter, and constructors.
 - Views: Which contains Complex SQL Query
 
